@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">HealthyStep</string>
+    <string name="title_activity_profile2">Profile2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="not_req"><b><i>(Not Required)</i></b></string>
+
+    <string name="stringForOver">This Weight Losing Plan Will Offer You 1200-1500 Calories Each Day.\n
+    This sample menu includes a variety of nutrient, fiber and protein-rich meals to help you reach your weight loss goals.\n\n
+    Breakfast: overnight oats made with rolled oats, chia seeds, and milk, topped with fresh berries and pumpkin seeds\n
+    Lunch: premade egg-and-veggie muffins with a fresh basil-and-tomato salad and some avocado\n Snack: mango-spinach smoothie\n
+    Dinner: homemade cauliflower-crust pizza topped with pesto, mushrooms, peppers, a handful of spinach, and marinated chicken or tempeh.\n
+    </string>
+
+
+    <string name="stringForUnder">This Weight Gaining Plan Will Offer You 2000 to 3000 Calories Each Day.\nDepending on your body size and activity level, you could require 3,000 calories or more per day to maintain your body weight.\n\nBreakfast: yogurt topped with fresh fruit and chopped walnuts\n
+    Lunch: kale salad topped with a poached egg or marinated seitan, as well as dried cranberries, cherry tomatoes, whole-grain pita chips, and an avocado-mango dressing\n
+    Snack: carrots, radishes, and cherry tomatoes dipped in hummus \n
+    Dinner: beef or black-bean burger topped with lettuce, tomato, roasted peppers, caramelized onions, and pickles, served on a small whole-wheat bun and peppers and onions on the side.\n
+    </string>
+
+    <string name="stringForNormal">This Weight Saving Plan Will Offer You 1600 to 2200 Calories Each Day.\n
+    in general you can eat whatever you want but you have to watch out your total calories each day
+        a man/woman like you with normal body weight should have no limits with specific kind of food like the one\n
+        who is gaining or losing weight\n
+        so what we have to offer is just a typical diet plan for any healthy person\n\n
+        Breakfast: overnight oats topped with chopped pecans, mango, and coconut flakes\n
+        Lunch: tuna or chickpea salad, served atop mixed greens with sliced avocado, sliced apple, and walnuts\n
+        Snack: yogurt with fruit \n
+        Dinner: grilled salmon or tempeh, potatoes, and sautéed kale.\n
+    </string>
+    <string-array name="Blood_Types">
+        <item>None</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+
+</resources>
